@@ -13,6 +13,30 @@
 
 A Python desktop application developed from an academic cryptography project. The redesigned interface offers offline utilities for inspecting data and demonstrating cryptographic operations.
 
+
+## Download
+
+<p align="center">
+  <a href="https://github.com/aboubakr-mikou/crypto-toolkit/releases/download/v2.0.0/CryptoToolkit.exe">
+    <img src="https://img.shields.io/badge/Download_for_Windows-238636?style=for-the-badge&logo=windows&logoColor=white" alt="Download CryptoToolkit for Windows"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Windows x64 • No Python required • v2.0.0</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aboubakr-mikou/crypto-toolkit/releases">View all releases</a>
+  |
+  <a href="https://github.com/aboubakr-mikou/crypto-toolkit/releases/download/v2.0.0/SHA256SUMS.txt">SHA-256 checksum</a>
+</p>
+
+> The executable is not digitally signed. Verify its SHA-256 checksum before running it.
+
+---
+
+
 ## Screenshots
 
 Actual application running on Linux (appearance may vary on Windows).
