@@ -1,5 +1,13 @@
 # CryptoToolkit 2.0
 
+[![Tests](https://github.com/aboubakr-mikou/crypto-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/aboubakr-mikou/crypto-toolkit/actions/workflows/tests.yml)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D4)
+![Security](https://img.shields.io/badge/Security-Cryptography-2DD4BF)
+![Mode](https://img.shields.io/badge/Mode-Offline-success)
+
+**Local security workbench for cryptography and authorized security assessments.**
+
 **Local security workbench for cryptography and authorized security assessments.**
 
 A Python desktop application developed from an academic cryptography project. The redesigned interface offers offline utilities for inspecting data and demonstrating cryptographic operations.
