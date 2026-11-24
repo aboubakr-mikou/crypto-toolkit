@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+build/
+dist/
+*.spec
+.vscode/
+.idea/
