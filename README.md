@@ -5,6 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D4)
 ![Security](https://img.shields.io/badge/Security-Cryptography-2DD4BF)
 ![Mode](https://img.shields.io/badge/Mode-Offline-success)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Local security workbench for cryptography and authorized security assessments.**
 
